@@ -1,4 +1,4 @@
-## 卡内基美隆大学[硕] | Carnegie Mellon University(Master)
+## 卡内基·梅隆大学[硕] | Carnegie Mellon University(Master)
 
 QS2018 年世界排名：47  
 QS2018 年世界艺术专业排名：13
