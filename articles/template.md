@@ -1,6 +1,6 @@
 ## 罗德岛设计学院[硕] | Rhode Island School of Design(Master)
 
-###1.官网相关信息：
+###1. 官网相关信息：
 
 **学位**：Master of Industrial Design  
 **学制**：2-2.5年  
@@ -20,7 +20,7 @@
 ---
 
 
-###2.马克君翻译与解读：
+###2. 马克君翻译与解读：
 
 #####硬性要求提取：
 - 10-20个项目
@@ -34,7 +34,7 @@
 --- 
 
 
-###3.有用链接：
+###3. 有用链接：
     
 **专业介绍**：[官网链接](https://www.risd.edu/academics/industrial-design/)  
 **课程安排**：[官网链接](https://www.risd.edu/academics/industrial-design/courses/)
