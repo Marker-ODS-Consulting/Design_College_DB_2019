@@ -36,8 +36,15 @@
     * 其他：other
     
     
-    ---
+    ---  
     
+    
+###书写语法：
+直接复制 /articles/template.md 进行修改  
+或使用 MarkDown 语法编辑  
+语法参考：[语法参考链接](https://coding.net/help/doc/project/markdown.html)
+  
+ ---
     
 ###书写规范修改记录：
 
