@@ -1,7 +1,8 @@
-## 罗德岛设计学院[硕] | Rhode Island School of Design(Master)
+## 罗德岛设计学院[硕] | Master of Industrial Design 
 
 ### 1. 官网相关信息：
 
+**院校**：Rhode Island School of Design
 **学位**：Master of Industrial Design  
 **学制**：2-2.5年  
 **费用**：48210美元  

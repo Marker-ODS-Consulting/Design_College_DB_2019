@@ -1,11 +1,12 @@
-## 卡内基·梅隆大学[硕] | Carnegie Mellon University(Master)
+## 卡内基·梅隆大学[硕] | Master of Design
 
 QS2018 年世界排名：47  
 QS2018 年世界艺术专业排名：13
 
 ### 1. 官网相关信息：
 
-**学位**：Master of IDesign  
+**院校**：Carnegie Mellon University
+**学位**：Master of Design  
 **学制**：2 年  
 **费用**：40000 美元  
 **语言**：TOEFL 最低总分102，单科25 / IELTS 最低总分7.5，单科7.0  
