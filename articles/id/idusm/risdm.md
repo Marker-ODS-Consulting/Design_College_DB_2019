@@ -12,9 +12,9 @@
 **申请文件**：成绩证明+学位证明+动机信+3封推荐信+GRE+个人简历+作品集  
 **作品集要求原文：**   
 
->- Graduate applicants to studio programs are required to submit 10–20 examples of visual work, with certain programs suggesting more specific ideas or portfolio requirements. Applicants to the MA programs in Global Arts and Cultures and Nature–Culture–Sustainability Studies are required to submit an example of critical and/or analytical writing. See below for all program-specific instructions.
+> - Graduate applicants to studio programs are required to submit 10–20 examples of visual work, with certain programs suggesting more specific ideas or portfolio requirements. Applicants to the MA programs in Global Arts and Cultures and Nature–Culture–Sustainability Studies are required to submit an example of critical and/or analytical writing. See below for all program-specific instructions.
 
->- Use Slideroom to submit your graduate portfolio here.
+> - Use Slideroom to submit your graduate portfolio here.
 
 
 ---
