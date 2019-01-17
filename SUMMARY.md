@@ -8,7 +8,7 @@
 
 * [n. 室内设计](page_holder.md)
     * [n.1 室内设计美国硕士](page_holder.md)
-      - [n.1.1 德克萨斯大学奥斯汀分校](/articles/iad/iadusm/utaa.md)  
+      - [n.1.1 德克萨斯大学奥斯汀分校](/articles/iad/iadusm/utaam.md)  
 
 
 
