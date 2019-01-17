@@ -4,7 +4,7 @@ QS2018 年世界排名：19
 QS2018 年世界艺术专业排名：101-150
 ### 1. 官网相关信息：
 
-**院校**：University of Pennsylvania
+**院校**：University of Pennsylvania  
 **学位**：Master of Integrated Product Design  
 **学制**：2 年  
 **费用**：25976 美元  
