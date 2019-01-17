@@ -35,5 +35,5 @@
 
 ### 3. 有用链接：
 
-**专业介绍**：[官网链接](https://www.risd.edu/academics/industrial-design/)  
-**课程安排**：[官网链接](https://www.risd.edu/academics/industrial-design/courses/)
+**专业介绍**：[院校链接](https://www.risd.edu/academics/industrial-design/)  
+**课程安排**：[院校链接](https://www.risd.edu/academics/industrial-design/courses/)

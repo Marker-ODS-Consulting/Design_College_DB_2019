@@ -49,5 +49,5 @@ QS2018 年世界艺术专业排名：101-150
 
 ### 3. 有用链接：
 
-**专业介绍与作品集要求**：[官网链接](https://gradadm.seas.upenn.edu/masters/integrated-product-design/)  
+**专业介绍与作品集要求**：[院校链接](https://gradadm.seas.upenn.edu/masters/integrated-product-design/)  
 **课程安排**：[IPD专业网站](https://ipd.me.upenn.edu/)
