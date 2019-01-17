@@ -4,6 +4,7 @@
 * 明确目录结构
 * 加入 writing specs
 * 小会分工开始
+* Atom Editor 真好用哈哈哈哈或或
 
 
 ###Alpha 0.0.1 20190116
