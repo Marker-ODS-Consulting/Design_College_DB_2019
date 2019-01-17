@@ -6,6 +6,11 @@
       - [1.1.2 卡内基·梅隆大学](/articles/id/idusm/cmum.md)
       - [1.1.3 罗德岛设计学院](/articles/id/idusm/risdm.md)
 
+* [n. 室内设计](page_holder.md)
+    * [n.1 室内设计美国硕士](page_holder.md)
+      - [n.1.1 德克萨斯大学奥斯汀分校](/articles/iad/iadusm/utaa.md)  
+
+
 
 
 * [Change Log](/support_files/changelog.md)
