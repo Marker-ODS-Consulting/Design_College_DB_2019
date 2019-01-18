@@ -1,4 +1,4 @@
-## 艺·罗德岛设计学院[硕] | Master of Industrial Design
+## 罗德岛设计学院[艺] | Master of Industrial Design
 
 ### 1. 官网相关信息：
 

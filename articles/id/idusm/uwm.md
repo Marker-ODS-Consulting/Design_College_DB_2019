@@ -1,4 +1,4 @@
-## 综·华盛顿大学[硕] | Master of Design
+## 华盛顿大学[综] | Master of Design
 
 QS2018年世界排名：61  
 QS2018年世界艺术专业排名：151-200

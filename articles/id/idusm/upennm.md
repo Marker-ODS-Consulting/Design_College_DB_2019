@@ -1,4 +1,4 @@
-## 综·宾夕法尼亚大学[硕] | Master of Integrated Product Design
+## 宾夕法尼亚大学[综] | Master of Integrated Product Design
 
 QS2018 年世界排名：19  
 QS2018 年世界艺术专业排名：101-150

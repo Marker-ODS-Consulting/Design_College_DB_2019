@@ -1,4 +1,4 @@
-## 综·卡内基·梅隆大学[硕] | Master of Design
+## 卡内基·梅隆大学[综] | Master of Design
 
 QS2018 年世界排名：47  
 QS2018 年世界艺术专业排名：13

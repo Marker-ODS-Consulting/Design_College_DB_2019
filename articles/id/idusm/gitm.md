@@ -1,4 +1,4 @@
-## 综·乔治亚理工学院[硕] | Master of Industrial Design
+## 乔治亚理工学院[综] | Master of Industrial Design
 
 QS2018年世界排名: 70
 
