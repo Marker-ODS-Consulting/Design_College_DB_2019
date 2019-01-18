@@ -6,7 +6,7 @@
       - [1.1.2 卡内基·梅隆大学](/articles/id/idusm/cmum.md)  
       - [1.1.3 华盛顿大学](/articles/id/idusm/uwm.md)
       - [1.1.4 乔治亚理工学院](/articles/id/idusm/gitm.md)  
-      - [1.1.10 罗德岛设计学院](/artickes/id/idusm/risdm.md)
+      - [1.1.10 罗德岛设计学院](/articles/id/idusm/risdm.md)
 
 * [n. 室内设计](page_holder.md)
     * [n.1 室内设计美国硕士](page_holder.md)
