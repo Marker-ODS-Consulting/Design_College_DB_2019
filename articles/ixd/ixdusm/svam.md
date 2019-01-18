@@ -13,6 +13,7 @@ QS2018 年世界艺术专业排名：13
 **GRE**：不要求    
 **申请时间**：截止到1月15日  
 **申请文件**：成绩证明+学位证明+3 封推荐信+个人陈述+个人简历+作品集
+
 **作品集要求原文：**   
 
 > - Applicants are required to submit a portfolio of work that demonstrates a point of view about interaction design. Interaction design portfolios are likely visual but need not be, as we look for a broad range of references as parallel influences to the field. Portfolios must include at least five projects. You might consider:
@@ -33,13 +34,12 @@ Usability and social science research that emphasizes the concept and ultimate f
 ### 2. 马克君翻译与解读：
 
 ##### 硬性要求提取：
-- 要求至少五个项目，并且其中至少有一个项目体现完整的思考和设计的过程。
-- 上传在线作品集，推荐使用 Dropbox 或者 Google Drive 上转 PDF 格式的作品集。
+- 要求至少五个项目。
 
 
 ##### 软性要求解读：
 - 作品集需要相应的体现视觉素养、工艺、流程、产品和服务设计工作。
-- 要求中有提到一个案例研究（case study），它是一个
+- 要求中有提到一个案例研究（case study），它是一个包含完整思考和设计流程的项目，可以是作品集的一部分，也可以是单独的一个pdf文件。单独提交的方式推荐使用 Dropbox 或者 Google Drive 上传。
 
 
 ---
