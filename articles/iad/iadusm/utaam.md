@@ -1,4 +1,4 @@
-## 综· 德克萨斯大学奥斯汀分校[硕] | Master of Interior Design
+## 综· 德克萨斯大学奥斯汀分校[综] | Master of Interior Design
 
 QS2018 年世界排名：67 
 

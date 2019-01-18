@@ -1,4 +1,4 @@
-## 综· 俄勒冈大学[硕] | Master of Interior Architecture
+## 俄勒冈大学[综] | Master of Interior Architecture
 
 QS2018 年世界排名：500 
 

@@ -1,4 +1,4 @@
-# 综· 德雷塞尔大学[硕] | Master of Interior Design
+# 德雷塞尔大学[综] | Master of Interior Design
 
 QS2018 年世界排名：431-440  
 

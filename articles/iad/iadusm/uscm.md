@@ -1,4 +1,4 @@
-# 综· 南加州大学[硕] | Master of Interior Design
+## 南加州大学[综] | Master of Interior Design
 
 QS2018 年世界排名：115  
 QS世界艺术设计专业排名：101-150  

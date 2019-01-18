@@ -1,4 +1,4 @@
-# 综· 纽约室内设计学院[艺] | Master of Interior Design
+## 纽约室内设计学院[艺] | Master of Interior Design
 
 
 ### 1. 官网相关信息：

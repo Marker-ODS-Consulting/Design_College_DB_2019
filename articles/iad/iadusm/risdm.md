@@ -1,4 +1,4 @@
-# 综· 罗德岛设计学院[艺] | Master of Interior Design
+## 罗德岛设计学院[艺] | Master of Interior Design
 
 
 ### 1. 官网相关信息：
@@ -8,9 +8,9 @@
 **学制**：2-3年  
 **费用**：48210美元  
 **语言**：TOEFL最低总分93 / IELTS最低总分6.5  
-**GRE**：要求    
-**申请时间**：截止到2月5日  
-**申请文件**：成绩证明+学位证明+2封推荐信+GRE+个人陈述+个人简历+作品集  
+**GRE**：不要求    
+**申请时间**：截止到1月10日  
+**申请文件**：成绩证明+学位证明+2封推荐信+个人陈述+作品集  
 **作品集要求原文：**   
 
 > - Graduate applicants to studio programs are required to submit 10–20 examples of visual work, with certain programs suggesting more specific ideas or portfolio requirements.
@@ -24,13 +24,12 @@
 ### 2. 马克君翻译与解读：
 
 ##### 硬性要求提取：
-- 1. MFA-2, MPS in Interior Lighting Design, MPS in Sustainable Interior Environments: 申请者需要提交一份15页的作品集，其中展示出一定程度专业技能。
-- 2. MPS in Healthcare Interior Design: 申请者必须拥有室内专业或者相关专业的本科学位。作品集要求为15页作品集，展示出你的专业技能。
-- 3. MFA-1: 作品集为可选项。如果提交，作品集需要包含10-15页的艺术相关的作品，比如静物写生，雕塑，人像，空间渲染等等。（同本科要求）
+- 10-20个作品 
+- 至少三个空间类项目
 
 
 ##### 软性要求解读：
-- 申请MFA-2以及MPS in Healthcare InteriorDesign方向的申请人必须提供跟室内设计相关的作品。MFA-1方向的则不必须提交室内方向的作品集。
+- 需要在作品集中展示出你对空间的调查研究的能力，以及对于空间探索的能力，并通过手绘和电脑绘图的方式体现出来。同时，你的项目还需要具有完整的发展过程，从调研，草图，设计发展等等到最终的设计产出。
 
 
 ---
@@ -38,5 +37,26 @@
 
 ### 3. 有用链接：
 
-**专业介绍**：[院校链接](https://www.pratt.edu/academics/school-of-design/graduate-school-of-design/interior-design-grad/)  
-**课程结构**：[院校链接](https://www.pratt.edu/academics/school-of-design/graduate-school-of-design/interior-design-grad/interior-design-mfa/)
+**专业介绍**：[院校链接](http://www.risd.edu/academics/interior-architecture/graduate/)  
+**课程结构**：  
+
+- PRELIMINARY SEMESTER  
+Intro to Design Studios: Spatial Investigation/Drawing and Making  
+Intro to Design Studios: Existing Construct  
+Intro to Design Studios: Transformation and Intervention 
+- FIRST YEAR  
+Intro to Design Studio II  
+Structures and Materials for Adaptive Reuse  
+Advanced Drawing and Computing Tectonics  
+History of Adaptive Reuse  
+Open elective  
+Advanced Design Studio  
+Energy and Systems  
+Theory of Adaptive Reuse  
+Spatial Perception: Light and Color  
+- SECOND YEAR  
+Advanced Design Studio  
+Human Factors, Ergonomics and Acoustics  
+Open elective  
+Design Thesis Preparation  
+Theory Seminar: Investigating Interiority  

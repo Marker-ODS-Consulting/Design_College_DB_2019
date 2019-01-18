@@ -1,4 +1,4 @@
-# 综· 普瑞特艺术学院[艺] | Master of Interior Design
+## 普瑞特艺术学院[综] | Master of Interior Design
 
 
 ### 1. 官网相关信息：
@@ -26,13 +26,12 @@ of 60 credits; a portfolio is required.
 ### 2. 马克君翻译与解读：
 
 ##### 硬性要求提取：
-- 1. MFA-2, MPS in Interior Lighting Design, MPS in Sustainable Interior Environments: 申请者需要提交一份15页的作品集，其中展示出一定程度专业技能。
-- 2. MPS in Healthcare Interior Design: 申请者必须拥有室内专业或者相关专业的本科学位。作品集要求为15页作品集，展示出你的专业技能。
-- 3. MFA-1: 作品集为可选项。如果提交，作品集需要包含10-15页的艺术相关的作品，比如静物写生，雕塑，人像，空间渲染等等。（同本科要求）
+- 申请人必须是建筑或者室内专业的学生
+- 提交的作品集内容需要和你所申请的专业相关
 
 
 ##### 软性要求解读：
-- 申请MFA-2以及MPS in Healthcare InteriorDesign方向的申请人必须提供跟室内设计相关的作品。MFA-1方向的则不必须提交室内方向的作品集。
+- 无具体要求
 
 
 ---

@@ -1,4 +1,4 @@
-## 综· 亚利桑那州立大学[硕] | Master of Interior Design
+## 亚利桑那州立大学[综] | Master of Interior Design
 
 QS2018 年世界排名：209 
 

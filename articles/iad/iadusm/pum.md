@@ -1,4 +1,4 @@
-## 综· 普渡大学[硕] | Master of Interior Design
+## 普渡大学[综] | Master of Interior Design
 
 QS2018 年世界排名：105 
 
