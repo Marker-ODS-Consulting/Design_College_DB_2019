@@ -1,4 +1,4 @@
-## 亚利桑那州立大学[综] | Master of Industrial Design
+## 亚利桑那州立大学[综] | Master of Industrial Design(MID)
 
 QS2018年世界排名: 209  
 QS2018年世界艺术专业排名：151-200
@@ -39,3 +39,5 @@ QS2018年世界艺术专业排名：151-200
 ### 3. 有用链接：
 
 **专业介绍**：[院校链接](https://design.asu.edu/degree-programs/industrial-design-mid)  
+**另有：亚利桑那州立大学 工业设计 MSD专业**：[本站介绍链接](此处网页待补充)
+
