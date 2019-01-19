@@ -1,6 +1,6 @@
-## 俄勒冈大学[综] | Master of Interior Architecture
+## 俄勒冈大学[综] | Master of Interior Design
 
-QS2018 年世界排名：500 
+QS2018 年世界排名：500
 
 ### 1. 官网相关信息：
 
@@ -26,7 +26,7 @@ QS2018 年世界排名：500
 
 
 ##### 软性要求解读：
-- 作品要呈现出对空间的思考与环境的认知能力，以及观察分析能力等。 
+- 作品要呈现出对空间的思考与环境的认知能力，以及观察分析能力等。
 
 
 ---
@@ -36,6 +36,6 @@ QS2018 年世界排名：500
 
 **专业介绍**：[院校链接](https://archenvironment.uoregon.edu/interior-architecture/graduate)  
 **课程结构**：  
- 
+
 - Track I [院校链接](https://archenvironment.uoregon.edu/architecture/grad/miarch1)  
 - Track II [院校链接](https://archenvironment.uoregon.edu/architecture/grad/miarch2)
