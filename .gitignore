@@ -1,5 +1,6 @@
-#fxxk the ds store
+# Fxxxk the .DS_Store
 *.DS_Store
+
 
 # Node rules:
 ## Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
