@@ -7,9 +7,9 @@
 **学制**：2-2.5年  
 **费用**：48210美元  
 **语言**：TOEFL最低总分93 / IELTS 最低总分6.5  
-**GRE**：要求    
+**GRE**：不要求    
 **申请时间**：截止到1月10日  
-**申请文件**：成绩证明+学位证明+动机信+3封推荐信+GRE+个人简历+作品集  
+**申请文件**：成绩证明+学位证明+动机信+3封推荐信+个人简历+作品集  
 **作品集要求原文：**   
 
 > - Graduate applicants to studio programs are required to submit 10–20 examples of visual work, with certain programs suggesting more specific ideas or portfolio requirements. Applicants to the MA programs in Global Arts and Cultures and Nature–Culture–Sustainability Studies are required to submit an example of critical and/or analytical writing. See below for all program-specific instructions.
