@@ -1,4 +1,4 @@
-# 德雷塞尔大学[综] | Master of Interior Design
+## 德雷塞尔大学[综] | Master of Interior Design
 
 QS2018 年世界排名：431-440  
 
@@ -40,7 +40,7 @@ QS2018 年世界排名：431-440
 **专业介绍**：[院校链接](http://drexel.edu/grad/programs/westphal/interior-architecture-and-design/)  
 **课程结构**：无链接，具体课程如下
 
-- Required Courses	
+- Required Courses
 INTR 722	Graduate Studio A  
 INTR 723	Studio A Seminar  
 INTR 732	Graduate Studio B  

@@ -1,6 +1,6 @@
-## 综· 德克萨斯大学奥斯汀分校[综] | Master of Interior Design
+## 德克萨斯大学奥斯汀分校[综] | Master of Interior Design
 
-QS2018 年世界排名：67 
+QS2018 年世界排名：67
 
 ### 1. 官网相关信息：
 
@@ -19,7 +19,7 @@ The portfolio helps the reviewers determine your potential to perform successful
 The level of creative skill you possess in any medium.  
 The extent of your interest in the proposed degree program, made evident through your abilities in composition, physical form-making, or perception of the environment.
 Your ability to translate ideas into physical form, even if in simple terms such as drawing.  
-> ##### FORMAT 
+> ##### FORMAT
 - Portfolios should be designed and formatted for on-screen viewing. Maximum file size is 25 MB.
 > ##### ATTRIBUTION  
 - For each project, list the applicant’s name, the project’s date, and an indication as to whether the project was academic, office-related, or personal. In the case of collaborative or professional work, the contribution by the applicant must be precisely described.  
