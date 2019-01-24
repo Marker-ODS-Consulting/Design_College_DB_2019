@@ -1,10 +1,10 @@
-## 综·宾夕法尼亚大学[硕] | Master of Integrated Product Design
+## 宾夕法尼亚大学[综] | Master of Integrated Product Design
 
 QS2018 年世界排名：19  
 QS2018 年世界艺术专业排名：101-150
 ### 1. 官网相关信息：
 
-**院校**：University of Pennsylvania
+**院校**：University of Pennsylvania  
 **学位**：Master of Integrated Product Design  
 **学制**：2 年  
 **费用**：25976 美元  
@@ -42,7 +42,7 @@ QS2018 年世界艺术专业排名：101-150
 - 讲清楚自己的项目属性，与自己在项目中的参与内容
 
 ##### 软性要求解读：
-看似内容要求很多，实际上并不是特别夸张，篇幅要求几乎是唯一的要求，严格卡在20页A4即可。综合类院校在思路上应该更严谨和完整一些。
+- 看似内容要求很多，实际上并不是特别夸张，篇幅要求几乎是唯一的要求，严格卡在20页A4即可。综合类院校在思路上应该更严谨和完整一些。
 
 
 ---
