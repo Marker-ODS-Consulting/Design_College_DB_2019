@@ -1,0 +1,30 @@
+{
+    "root": "./",
+    "title": "DB_2019",
+    "head_title": "DB_2019",
+    "head_description": "DB_2019",
+    "head_keywords": "马DB_2019",
+    "logo": "./images/logo.png",
+
+    "gitbook": ">= 3.0.0",
+
+    "language": "zh-hans",
+
+    "plugins": [
+        "expandable-chapters-small"
+        "-sharing",
+        "-fontsettings",
+        "-lunr",
+        "-search",
+        "search-pro",
+        "sitemap-general",
+        "splitter",
+        "toggle-chapters"
+    ],
+
+    "pluginsConfig": {
+        "sitemap-general": {
+            "prefix": "http://kk.makebi.net/"
+        }
+    }
+}
