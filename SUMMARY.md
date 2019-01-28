@@ -38,9 +38,9 @@
         * [1.2.14 奥本大学](articles/id/idusb/14aub.md)
         * [1.2.15 伊利诺伊大学香槟分校](articles/id/idusb/15uiucb.md)
         * [1.2.16 乔治亚理工大学](articles/id/idusb/16gitb.md)
-        * [1.2.17 华盛顿大学](articles/id/idusb/17uwb.md)
-
------
+        * [1.2.17 华盛顿大学](articles/id/idusb/17uwb.md)  
+* [2. 交互设计](page_holder.md)  
+* [3. 服务设计](page_holder.md)  
 * [4. 室内设计](articles/iad/iad.md)
     * [4.1 室内设计美国硕士](articles/iad/iadusm/iadusm.md)
         * [4.1.1 德克萨斯大学奥斯汀分校](articles/iad/iadusm/1utaam.md)
@@ -75,8 +75,9 @@
         * [4.2.10 奥本大学](articles/iad/iadusb/10aub.md)
         * [4.2.11 亚利桑那州立大学](articles/iad/iadusb/11asub.md)
         * [4.2.12 普渡大学](articles/iad/iadusb/12pub.md)
-        * [4.2.13 罗切斯特理工大学](articles/iad/iadusb/13ritb.md)
-
+        * [4.2.13 罗切斯特理工大学](articles/iad/iadusb/13ritb.md)  
+* [5. 景观设计](page_holder.md)
+* [6. 建筑设计](page_holder.md)
 -----
 * [Change Log](support_files/changelog.md)
 * [Writing Spce](support_files/writing-specs.md)
