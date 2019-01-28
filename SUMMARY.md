@@ -20,7 +20,24 @@
       - [1.1.16 帕森斯设计学院](/articles/id/idusm/16parsm.md)  
       - [1.1.17 克兰布鲁克艺术学院](/articles/id/idusm/17cranm.md)  
       - [1.1.18 萨凡纳艺术设计学院](/articles/id/idusm/18scadm.md)
-    * [1.2 工业设计美国本科](page_holder.md)
+    * [1.2 工业设计美国本科](page_holder.md)  
+      - [1.2.1 艺术设计中心学院](/articles/id/idusb/1accdb.md)  
+      - [1.2.2 罗德岛设计学院](/articles/id/idusb/2risdb.md)  
+      - [1.2.3 加州艺术学院](/articles/id/idusb/3ccab.md)
+      - [1.2.4 普瑞特艺术学院](/articles/id/idusb/4prattb.md)  
+      - [1.2.5 纽约视觉艺术学院](/articles/id/idusb/5svab.md)  
+      - [1.2.6 帕森斯设计学院](/articles/id/idusb/6parsb.md)
+      - [1.2.7 马里兰艺术学院](/articles/id/idusb/7micab.md)  
+      - [1.2.8 萨凡纳艺术设计学院](/articles/id/idusb/8scadb.md)  
+      - [1.2.9 卡内基·梅隆大学](/articles/id/idusb/9cmub.md)  
+      - [1.2.10 俄亥俄州立大学](/articles/id/idusb/10osub.md)  
+      - [1.2.11 亚利桑那州立大学](/articles/id/idusb/11asub.md)  
+      - [1.2.12 罗切斯特理工学院](/articles/id/idusb/12ritb.md)  
+      - [1.2.13 辛辛那提大学](/articles/id/idusb/13ccntb.md)  
+      - [1.2.14 奥本大学](/articles/id/idusb/14aub.md)
+      - [1.2.15 伊利诺伊大学香槟分校](/articles/id/idusb/15uiucb.md)
+      - [1.2.16 乔治亚理工大学](/articles/id/idusb/16gitb.md)  
+      - [1.2.17 华盛顿大学](/articles/id/idusb/17uwb.md)  
 
 
 
@@ -58,7 +75,7 @@
       - [4.2.10 奥本大学](/articles/iad/iadusb/10aub.md)  
       - [4.2.11 亚利桑那州立大学](/articles/iad/iadusb/11asub.md)  
       - [4.2.12 普渡大学](/articles/iad/iadusb/12pub.md)  
-      - [4.2.13 罗切斯特理工大学](/articles/iad/iadusb/13ritb.md) 
+      - [4.2.13 罗切斯特理工大学](/articles/iad/iadusb/13ritb.md)
 
 
 
