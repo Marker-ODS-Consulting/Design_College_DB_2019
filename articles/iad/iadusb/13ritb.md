@@ -13,31 +13,31 @@
 **申请文件**：在线申请+个人陈述+作品集+高中成绩单+语言成绩  
 **作品集要求原文：**   
 
-> - What is portfolio submission all about?
+> - What is portfolio submission all about?  
 Your portfolio tells a lot about you: the level of your enthusiasm, the types of work that you are interested in, and how you interpret your ideas through art. The work that you include in your portfolio will indicate whether you show promise in the program area that you are applying for.
 
-> - Why is a portfolio required?
+> - Why is a portfolio required?  
 Artistic disciplines require a measure of skill and dedication. Because accepted students become part of an elite learning community, they must first demonstrate a proven level of artistic talent. Your portfolio will help us evaluate your artistic skills, your artistic preferences, and your familiarity with various types of artistic media.
 
-> - What is CIAS looking for?
+> - What is CIAS looking for?  
 10-20 Pieces
 The 10-20 pieces of your best artwork that you choose to submit should demonstrate an understanding of pictorial composition, creativity/originality of ideas, drawing and design ability, a sense for the use of materials, attention to detail, and craftsmanship. The work can be from a variety of media and subject matter. We’re looking for good traditional drawing skills as well as artwork relevant to your artistic interests.
-3 to 6 Pieces Drawn from Observation   
 
-> - Include a minimum of three to six drawings made by direct observation (not copied from photographs, comics, or “fantasy”). Drawings should demonstrate a full range of tonal values and a variety of line quality.
-Creativity and Craftsmanship  
+> - 3 to 6 Pieces Drawn from Observation   
+Include a minimum of three to six drawings made by direct observation (not copied from photographs, comics, or “fantasy”). Drawings should demonstrate a full range of tonal values and a variety of line quality.
 
-> - The craftsmanship in a work of art is as important as the ideas presented. You can demonstrate creativity through innovative ideas and content, interesting composition, and proficient use of materials.
-Acceptable Media Formats  
+> - Creativity and Craftsmanship  
+The craftsmanship in a work of art is as important as the ideas presented. You can demonstrate creativity through innovative ideas and content, interesting composition, and proficient use of materials.
 
-> - Images (up to 5 MB each), Video (up to 60 MB each), Audio (up to 30 MB each) and PDFs (up to 10 MB each). You may also link to media from YouTube, Vimeo and SoundCloud
+> - Acceptable Media Formats  
+Images (up to 5 MB each), Video (up to 60 MB each), Audio (up to 30 MB each) and PDFs (up to 10 MB each). You may also link to media from YouTube, Vimeo and SoundCloud
 
 > - Special Requirements
 Medical Illustration
 Include at least six drawings of natural forms such as seashells, plants, human figures, or animals, rendered in a single medium. Studies of anatomical parts such as hands and feet are also acceptable.
-School for American Crafts  
 
-> - You are encouraged to include works done in the medium of your intended major: ceramics, glass, metals or wood. However, a portfolio that is entirely two-dimensional is also acceptable. If you do not have a portfolio, but are interested in any of the Craft School programs, please contact the faculty directly to discuss alternative approaches to completing your application.  
+> - School for American Crafts  
+You are encouraged to include works done in the medium of your intended major: ceramics, glass, metals or wood. However, a portfolio that is entirely two-dimensional is also acceptable. If you do not have a portfolio, but are interested in any of the Craft School programs, please contact the faculty directly to discuss alternative approaches to completing your application.  
 
 
 
@@ -48,19 +48,21 @@ School for American Crafts
 ### 2. 马克君翻译与解读：
 
 ##### 硬性要求提取：
-- 无具体要求
+- 10-20个作品
+- 3-6张写生作品
+- 提交的每张图片最大为5MB，PDF每个最大10MB，视频每个最大60MB，音频每个最大30MB
+- 特殊要求：作品集中必须包含6幅关于自然形态的画，例如：贝壳，人手，动物等等
 
 
 ##### 软性要求解读：
-- 不需要提交作品集，但是在大二春季会进行校内专业考试，通过的可以继续学习室内设计专业，没有通过的则需要选择其他专业。
-
+- 除了上述硬性要求外，作品集中作品最重要的是创造性，同时，你还需要展现出一定的手工能力，所以建议作品集中要有模型制作。
 
 ---
 
 
 ### 3. 有用链接：
 
-**专业介绍**：[院校链接](http://catalog.purdue.edu/preview_program.php?catoid=7&poid=6631&hl=%22interior+design%22&returnto=search)  
+**专业介绍**：[院校链接](https://www.rit.edu/programs/interior-design-bfa)  
 **课程结构**： 
 
 - First Year  
