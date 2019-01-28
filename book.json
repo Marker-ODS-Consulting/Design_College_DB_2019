@@ -11,7 +11,6 @@
     "language": "zh-hans",
 
     "plugins": [
-        "expandable-chapters-small"
         "-sharing",
         "-fontsettings",
         "-lunr",
@@ -24,7 +23,7 @@
 
     "pluginsConfig": {
         "sitemap-general": {
-            "prefix": "http://kk.makebi.net/"
+            "prefix": "http://college.makebi.net/"
         }
     }
 }
