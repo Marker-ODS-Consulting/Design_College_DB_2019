@@ -1,4 +1,4 @@
-## 萨凡纳艺术与设计学院[艺] | Bachelor of Interior Design
+## 萨凡纳艺术设计学院[艺] | Bachelor of Interior Design
 
 
 ### 1. 官网相关信息：
@@ -14,15 +14,15 @@
 **作品集要求原文：**   
 
 > - A visual arts/design portfolio should include 2-D and 3-D works that demonstrate both creativity and a grasp of basic artistic techniques and principles.  
- 
-> - A portfolio composed of digital or time-based media should demonstrate a basic mastery of the concepts of composition as well as effective use of software or other relevant digital tools. 
- 
+
+> - A portfolio composed of digital or time-based media should demonstrate a basic mastery of the concepts of composition as well as effective use of software or other relevant digital tools.
+
 > - A performing arts audition, whether performed on-site or submitted digitally, should demonstrate strong characterization, energy and physical commitment to the role.
 
 > - An equestrian riding portfolio should demonstrate the applicant's skill with riding, jumping and/or dressage as well as experience and level of performance.  
 
 > - A writing portfolio should demonstrate the applicant's ability to create clear and compelling copy across a variety of genres.
-  
+
 
 
 

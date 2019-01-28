@@ -1,7 +1,12 @@
 # Change Log 迭代记录
 
+### Alpha 0.3.0 20190124
+* 安老师加入 Organization
+* 美国室内本科部分内容加入
+* 明确内容铺陈次序
+
 ### Alpha 0.2.0 20190123
-* Repo转移至 Orgnization 
+* Repo转移至 Organization 
 * 简化同步
 * 内容铺陈  
 

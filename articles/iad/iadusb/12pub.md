@@ -1,4 +1,4 @@
-## 普度大学大学[综] | Bachelor of Interior Design
+## 普度大学[综] | Bachelor of Interior Design
 
 
 ### 1. 官网相关信息：
@@ -37,7 +37,7 @@
 ### 3. 有用链接：
 
 **专业介绍**：[院校链接](http://catalog.purdue.edu/preview_program.php?catoid=7&poid=6631&hl=%22interior+design%22&returnto=search)  
-**课程结构**： 
+**课程结构**：
 
 A. Art & Design Core: (12 credits)  
 Design I  
@@ -69,5 +69,3 @@ Mechanical And Electrical Systems
 Introduction To Construction Graphics  
 Applications Of Construction Documentation I  
 Applications Of Construction Documentation II  
-
-
