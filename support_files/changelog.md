@@ -4,6 +4,8 @@
 * US ID 部分完成
 * US IAD 部分完成
 * 大量内容铺陈
+* 加入book.json 以调整样式和 html输出  
+* 开始更新在 college.makebi.net 中
 
 ### Alpha 0.3.0 20190124
 * 安老师加入 Organization
