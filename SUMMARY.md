@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [0. 序](README.md)
 * [1. 工业设计](articles/id/id.md)
     * [1.1 工业设计美国硕士](articles/id/idusm/idusm.md)
         * [1.1.1 宾夕法尼亚大学](articles/id/idusm/1upennm.md)
@@ -80,4 +80,5 @@
 * [6. 建筑设计](page_holder.md)
 -----
 * [Change Log](support_files/changelog.md)
-* [Writing Spce](support_files/writing-specs.md)
+* [Writing Spce](support_files/writing-specs.md)  
+* [Bugs & Fixes](/bugs.md)
