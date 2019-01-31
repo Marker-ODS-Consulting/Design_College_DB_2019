@@ -16,7 +16,7 @@
 > - Submit your portfolio through Slideroom. First-year applicants are encouraged to submit 10-15 images, while transfer and second-degree portfolios may exceed 15 pieces.
 > - Stand-alone film, video, and animation samples should not exceed five minutes total; however, multiple clips are acceptable provided their cumulative length is five minutes or fewer.
 > - You may also submit a “maker" portfolio, one that highlights a creative project you made (e.g., a bike you redesigned or clothes you found and restructured).
-  
+
 
 
 
@@ -39,5 +39,5 @@
 
 ### 3. 有用链接：
 
-**专业介绍**：[院校链接](www.cca.edu/architecture/interior-design/)  
-**课程结构**：[院校链接](https://www.cca.edu/academics/interior-design/curriculum) 
+**专业介绍**：[院校链接](https://www.cca.edu/architecture/interior-design/)  
+**课程结构**：[院校链接](https://www.cca.edu/academics/interior-design/curriculum)

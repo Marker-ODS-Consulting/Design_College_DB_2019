@@ -18,7 +18,7 @@
 > - Examples of work may include interior design, furniture design, lighting design, set design and architectural design projects. Limited examples of drafting or technical drawing are acceptable, but must be accompanied by 3D representations. Applicants will be considered for their design concepts, as well as basic drawing and model-making skills.
 
 > - A descriptive paragraph explaining the design concept and solution should be included with each project submitted. Quantity is not as important as quality. For instructions on submitting your work, follow the submission options in How to Submit Your Work.
-  
+
 
 
 
@@ -42,4 +42,4 @@
 ### 3. 有用链接：
 
 **专业介绍**：[院校链接](http://www.artcenter.edu/academics/undergraduate-degrees/environmental-design/overview.html)  
-**课程结构**：[院校链接](http://www.saic.edu/academics/departments/aiado/courses) 
+**课程结构**：[院校链接](http://www.artcenter.edu/academics/undergraduate-degrees/environmental-design/course-of-study/overview.html) 

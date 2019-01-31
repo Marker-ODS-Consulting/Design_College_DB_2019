@@ -20,7 +20,7 @@
 > - We recommend that you include some developmental research and/or preparatory work for one of your submissions. It is helpful to show your process of thinking and investigation so we can see how you develop your ideas. A sketchbook or journal page may be an appropriate way to share your process. Consider also including the finished piece and preparatory work(s) in a single image. There is an area in SlideRoom where you can include brief text descriptions for your submissions.
 
 > - *We strongly discourage the submission of works in PDF format that include multiple pages, especially when there are numerous elements on a single page. These are difficult for reviewers to view and assess and are likely to exceed the allowed limit of 20 work examples.*
-  
+
 
 
 
@@ -46,5 +46,5 @@
 
 ### 3. 有用链接：
 
-**专业介绍**：[院校链接](http://www.scad.edu/academics/programs/interior-design)  
-**课程结构**：[院校链接](http://www.scad.edu/academics/programs/interior-design/degrees/bfa)
+**专业介绍**：[院校链接](https://www.risd.edu/academics/interior-architecture/undergraduate/)  
+**课程结构**：[院校链接](https://www.risd.edu/academics/interior-architecture/courses/)

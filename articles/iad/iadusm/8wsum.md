@@ -38,5 +38,5 @@ QS2018年世界排名: 401-410
 
 ### 3. 有用链接：
 
-**专业介绍**：[院校链接](https://www.scad.edu/academics/programs/interior-design/degrees/mfa)  
+**专业介绍**：[院校链接](https://gradschool.wsu.edu/degrees/factsheet/master-of-arts-in-interior-design/)  
 **课程结构**：[院校链接](http://sdc.wsu.edu/wp-content/uploads/2014/10/MA_InteriorDesignGraduateHandbook2017-2018.pdf)
