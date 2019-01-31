@@ -1,12 +1,19 @@
 # Change Log 迭代记录
 
+### Alpha 0.4.0 20190128
+* US ID 部分完成
+* US IAD 部分完成
+* 大量内容铺陈
+* 加入book.json 以调整样式和 html输出  
+* 开始更新在 college.makebi.net 中
+
 ### Alpha 0.3.0 20190124
 * 安老师加入 Organization
 * 美国室内本科部分内容加入
 * 明确内容铺陈次序
 
 ### Alpha 0.2.0 20190123
-* Repo转移至 Organization 
+* Repo转移至 Organization
 * 简化同步
 * 内容铺陈  
 
