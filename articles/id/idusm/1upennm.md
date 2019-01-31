@@ -14,7 +14,7 @@ QS2018 年世界艺术专业排名：101-150
 **申请文件**：成绩证明+学位证明+2 封推荐信+GRE+个人简历+个人陈述+作品集  
 **作品集要求原文：**   
 
-> - -Applicants to the Integrated Product Design program must submit a visual portfolio of 15 to 25 images of their work highlighting artistic, aesthetic, and creative explorations. Portfolios must be submitted digitally as a PDF document. Applicants may also provide a web address for an online portfolio on the first page of the PDF.
+> - Applicants to the Integrated Product Design program must submit a visual portfolio of 15 to 25 images of their work highlighting artistic, aesthetic, and creative explorations. Portfolios must be submitted digitally as a PDF document. Applicants may also provide a web address for an online portfolio on the first page of the PDF.
 
 > - A PDF document of no more than twenty 8.5 x11" pages and screen resolution (72 dpi) ONLY should be submitted. No fewer than four projects (two of which should be individual projects).
 
