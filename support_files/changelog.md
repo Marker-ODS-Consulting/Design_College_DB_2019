@@ -1,5 +1,11 @@
 # Change Log 迭代记录
 
+### Alpha 0.5.0 20190201
+* Bug Fixed
+* 今日放假，新年快乐！
+
+
+
 ### Alpha 0.4.0 20190128
 * US ID 部分完成
 * US IAD 部分完成
