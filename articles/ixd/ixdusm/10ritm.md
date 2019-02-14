@@ -3,7 +3,7 @@
 
 ### 1. 官网相关信息：
 
-**院校**：Rochester Institute of Technology 
+**院校**：Rochester Institute of Technology   
 **学位**：Visual Communication Design MFA (Interaction Design Option)   
 **学制**：2年  
 **费用**：41000美元  

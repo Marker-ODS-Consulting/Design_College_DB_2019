@@ -6,9 +6,9 @@ QS2018年世界排名：386
 ### 1. 官网相关信息：
 
 **院校**：University of Kansas  
-**学位**：Interaction And User Experience Design（MA）
+**学位**：Interaction And User Experience Design（MA）  
 **学制**：2年  
-**费用**：25896美元
+**费用**：25896美元  
 **语言**：TOEFL最低总分89 / IELTS最低总分6.5  
 **GRE**：不要求    
 **申请时间**：截止到12月1日  

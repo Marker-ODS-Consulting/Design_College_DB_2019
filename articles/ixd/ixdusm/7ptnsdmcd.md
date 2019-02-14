@@ -3,7 +3,7 @@
 
 ### 1. 官网相关信息：
 
-**院校**：Parsons The New School for Design 
+**院校**：Parsons The New School for Design  
 **学位**：Design and Technology (M.F.A)  
 **学制**：2年  
 **费用**：46240美元  

@@ -3,7 +3,7 @@
 
 ### 1. 官网相关信息：
 
-**院校**：School of Visual Arts 
+**院校**：School of Visual Arts  
 **学位**：MFA in Interaction Design  
 **学制**：2 年  
 **费用**：22725美元/学期  

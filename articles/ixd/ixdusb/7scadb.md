@@ -34,9 +34,8 @@
 
 ### 3. 有用链接：
 
-**专业介绍**：[院校链接]()  
-**课程结构**：[院校链接]()  
-欠网站
+**专业介绍**：[院校链接](http://www.scad.edu/academics/programs/user-experience-design)  
+**课程结构**：[院校链接](http://www.scad.edu/academics/programs/user-experience-design/degrees/bfa)  
 
 
 

@@ -7,7 +7,7 @@ QS2018年世界排名：346
 ### 1. 官网相关信息：
 
 **院校**：Northeastern University   
-**学位**：Digital Media 
+**学位**：Digital Media   
 **学制**：2年  
 **费用**：N/A  
 **语言**：无具体要求  
