@@ -33,7 +33,7 @@
 **专业介绍**：[院校链接](https://design.osu.edu/undergrad/programs/vcd)  
 **课程结构**：[院校链接](https://design.osu.edu/undergrad/programs/vcd) 
 
-Year One  
+**Year One**  
 Autumn Semester  
 Design Foundations, 9 hours  
 Arts and Sciences 1100.09: College Survey, 1 hour  
@@ -43,7 +43,7 @@ Spring Semester
 Design Foundations, 9 hours  
 GE Courses, 6 hours  
 
-Year Two  
+**Year Two**  
 Autumn Semester  
 Design 3103: Intro to Vis Com Design 1, 3 hours  
 Design 3200: Design Research 1, 3 hours  
@@ -57,7 +57,7 @@ Design 3450.03: Design Media 2 for Visual Communication Design, 3 hours
 Design 3550.03: Materials + Processes for Visual Communication Design, 3 hours  
 GE Courses, 9-11 hours  
 
-Year Three  
+**Year Three**  
 Autumn Semester  
 Design 4103: Intermediate Vis Com Design 1, 3 hours  
 Design 4200: Design Research 2, 3 hours  
@@ -71,7 +71,7 @@ Design 4650: Collaborative Design, 3 hours
 Design 4750: Professional Practices (weeks 1 to 7), 3 hours  
 Elective Courses, 6 hours  
 
-Year Four  
+**Year Four**  
 Autumn Semester  
 
 Design 5103: Advanced Vis Com Design 1, 3 hours  

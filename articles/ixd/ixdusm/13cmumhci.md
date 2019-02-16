@@ -8,7 +8,7 @@ QS2018年世界排名：47
 **院校**：Carnegie Mellon University  
 **学位**：Master of Human-Computer Interaction  
 **学制**：1年  
-**费用**：46000美元
+**费用**：46000美元  
 **语言**：TOEFL最低总分100（单科不低于25） / IELTS最低总分8.5  
 **GRE**：要求    
 **申请时间**：截止到1月15日  

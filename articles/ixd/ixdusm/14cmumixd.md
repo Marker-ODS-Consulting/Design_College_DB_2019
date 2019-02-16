@@ -8,7 +8,7 @@ QS2018年世界排名：47
 **院校**：Carnegie Mellon University  
 **学位**：Master of Design for Interaction Design  
 **学制**：2年  
-**费用**：46000美元
+**费用**：46000美元  
 **语言**：TOEFL最低总分102（单科不低于25） / IELTS最低总分7.5（单科不低于7.0）  
 **GRE**：要求，建议语文160以上，数学148以上，写作4.5以上。  
 **申请时间**：截止到1月15日  

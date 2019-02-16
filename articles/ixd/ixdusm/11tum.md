@@ -8,7 +8,7 @@ QS2018年世界排名：651-700
 **院校**：Temple University  
 **学位**：GRAPHIC AND INTERACTIVE DESIGN（M.F.A）  
 **学制**：2年  
-**费用**：1405美元/学分
+**费用**：1405美元/学分  
 **语言**：TOEFL最低总分79 / IELTS最低总分6.5  
 **GRE**：不要求    
 **申请时间**：截止到1月15日  
