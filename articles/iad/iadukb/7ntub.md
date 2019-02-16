@@ -8,37 +8,50 @@
 **学制**：3-4年  
 **费用**：13450英镑  
 **语言**：IELTS总分6.5，单科5.5      
-**申请时间**：???   
+**申请时间**：截止到1月15日  
 **申请文件**：个人学历证明+成绩单+个人陈述+作品集+语言成绩+证明文件  
 **作品集要求原文：**   
 
-> Format Digital
+> Your digital portfolio is the perfect opportunity to showcase your work, skills and interests.
 > 
--	You can submit your portfolio via your applicant portal. Please follow the below guidelines for digital submissions.
--	20 slides are more than enough. Annotate each slide explaining your processes.
--	The file that you send should be no bigger than 10MB (megabytes).
--	PDF (portable document file) or PowerPoint are accepted formats.
--	Audio compositions/moving image work are also acceptable formats. If they cannot be embedded within your PowerPoint then please include a link to the file hosted somewhere online eg. on YouTube.
--	Blog screen shot pages are also acceptable formats.
--	Please ensure that all submitted materials are properly documented citing materials used, and where appropriate, explaining the processes used.
--	Please make sure that your name / email is on the file attachment.
-
-> Content
+This is your chance to demonstrate your passion as well as your creativity and your individual approach to interior
+architecture and design.  
+We understand your digital portfolio is unique to you as a creative individual, but here’s a handy checklist of
+things you need, and things you should consider.  
 > 
-- Include relevant work related to the subject area. Know about the course you are applying for. You may like to view some of the student work on our website. Show ideas generation, experimentation and risk taking.
-- Think about the basics   
-Show examples of paintings, drawings, photographs, three-dimensional work, time-based work and anything else relevant to the area of practice. 
-- Tell a story   
-Try to show one full project from start to finish with the preparatory drawings included. Annotations are helpful as they show how you research and reflect on the development of your work. See here for examples of good ways to evidence ‘’design process’’. See Tatiana Pachina and Roxana Cislariu's portfolios as examples
-- The Finished Article  
-Include three to four final pieces that you are able to talk about. This might include photographs of physical models or images generated from digital 3D models
-- The Sketchbook   
-Include extracts from sketchbooks to help us understand how you think (through your annotations) and allow us to see the development of your drawing. You may wish to photograph or scan some of the best pages from your sketchbook.
-
-> Final word of advice
-> 
-- What is the first thing that we will see in your portfolio? This should grab our attention. What will be the mid-point highlight? What will you end with? Consider the flow of your portfolio - this will help keep viewers interested. Also, can you say your portfolio communicated with passion?
-
+What you need to include:  
+>
+- Between 10 – 20 slides on a range of subjects and in different media.
+- An outline of what your favourite building is, or an interior space that inspires you. This can be a simple
+statement.
+>
+This may consist of:  
+>
+- Sketching and hand drawing.  
+- Photography of your 2D work. This can be in a variety of mediums including paint or charcoal by hand and / or
+by computer-aided design (CAD) software.  
+- A demonstrated interest in 3D design and images of your 3D work. Work could include sculpture, modelmaking craft work and product design.  
+>
+What are we looking for in your digital portfolio?
+>
+- Your understanding of the creative design process.  
+- A quality and range of techniques demonstrated.  
+- An ability to handle a variety of media, technologies and processes.  
+- A willingness to experiment, raise questions and develop ideas through the creative use of a variety of
+media and working methods.  
+- Your observational and interpretive skills applied to spatial and 3D forms. 
+>
+Our assessment of your work will consider:  
+>
+- Innovation and creativity.
+- Your passion for interior architecture and design, and your curiosity and willingness to interact and
+engage.
+- Interest in relevant areas of design, interior architecture, spatial design and architecture.  
+- Your ability to work individually, independently, self-directed, and as part of a team.  
+>
+Please submit your practical work as a PDF.  
+>
+- The maximum file size of 10 megabytes (mb) or a single unzipped file not exceeding 10 mb. 
 
 
 
@@ -50,16 +63,21 @@ Include extracts from sketchbooks to help us understand how you think (through y
 ### 2. 马克君翻译与解读：
 
 ##### 硬性要求提取：
-- 20页左右
-- 文件不超过100MB
-- PDF和PPT文件都可以
-- 3-4个作品
+- 10-20页
+- 一张你最喜欢的建筑或者是带给你灵感的室内空间作品
+- 提交PDF文件
+- 文件最大不超过10MB
 
 
 ##### 软性要求解读：
-- 作品集中要包括和你所申请的专业相关的作品。对于室内设计专业而已，我们可能需要提交一些空间类型，三维类型的作品。
-- 每一个作品要足够完整，从开始到完成的过程都要呈现出来。
-- 用草图的形式来呈现你作品的发展过程。
+从学校的要求可以看出，学校比较看重以下几点：  
+
+- 多样化的作品  
+- 创造力  
+- 不同的多样的技能  
+- 作品的思考与发展过程  
+- 观察力  
+- 你对这个专业的兴趣以及热情  
 
 
 ---
@@ -67,5 +85,5 @@ Include extracts from sketchbooks to help us understand how you think (through y
 
 ### 3. 有用链接：
 
-**专业介绍**：[院校链接](http://www.bcu.ac.uk/courses/interior-architecture-design-ba-hons-2019-20)  
-**课程结构**：[院校链接](http://www.bcu.ac.uk/courses/interior-architecture-design-ba-hons-2019-20) 
+**专业介绍**：[院校链接](https://www.ntu.ac.uk/study-and-courses/courses/find-your-course/architecture-design-built-environment/ug/2019-20/ba-interior-architecture-and-design)  
+**课程结构**：[院校链接](https://www.ntu.ac.uk/__data/assets/pdf_file/0029/147809/126276.pdf) 
