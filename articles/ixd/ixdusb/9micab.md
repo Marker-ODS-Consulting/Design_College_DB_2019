@@ -5,7 +5,7 @@
 **院校**：Maryland Institute College of Art  
 **学位**：BFA Interactive Arts  
 **学制**：4年  
-**费用**：45290美元 
+**费用**：45290美元  
 **语言**：TOEFL总分80 / IELTS 6.5  
 **SAT**：不要求    
 **申请时间**：12月1日（早申请截止时间）；2月1日（正常申请截止时间）   

@@ -7,7 +7,7 @@ QS2018年世界排名：395
 ### 1. 官网相关信息：
 
 **院校**：Illinois Institute of Technology   
-**学位**：Master of Design（Interaction Design） 
+**学位**：Master of Design（Interaction Design）  
 **学制**：2年  
 **费用**：24501美元/学期  
 **语言**：TOEFL最低总分100 / IELTS最低总分7.5  
