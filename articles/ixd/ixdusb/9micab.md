@@ -15,7 +15,7 @@
 
 > - The portfolio should be a selection of recent artwork that represents your artistic interests and demonstrates your technical skills and ability. You should include examples of artwork that reflect the full range of your ideas, interests, experience and abilities in the arts to date.
 
--	Applicants must submit a portfolio of 12-20 pieces of artwork. Please follow the instructions provided in either the Common App or MICA Online Application to upload your portfolio submission.
+> -	Applicants must submit a portfolio of 12-20 pieces of artwork. Please follow the instructions provided in either the Common App or MICA Online Application to upload your portfolio submission.
 
 
 ---
@@ -29,6 +29,7 @@
 
 ##### 软性要求解读：
 - 作品集需要包含最近的作品并且能够体现申请者的兴趣和对于设计的理解。
+- 学校对于作品集的其他要求并不多，但还是要注重作品集中对于研究方法，创作过程的表现，以及作品最后的呈现也要尽量高保真高完成度。
 
 
 ---
