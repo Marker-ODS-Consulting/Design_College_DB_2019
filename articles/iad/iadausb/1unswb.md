@@ -1,6 +1,6 @@
 ## 新南威尔士大学[综] | Bachelor of Interior Design
 
-QS世界排名：247
+QS世界排名：45
 
 ### 1. 官网相关信息：
 
