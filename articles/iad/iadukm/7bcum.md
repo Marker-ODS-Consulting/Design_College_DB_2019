@@ -36,7 +36,6 @@ Your portfolio will form the basis of your application’s evaluation and should
 - 大二到大四的其他项目
 
 
-
 ##### 软性要求解读：
 无
 
