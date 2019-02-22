@@ -40,6 +40,14 @@ Following a review on your mini portfolio, you will either be invited for a full
 > - Please organise your work by project, with supporting work presented alongside final outcomes.
 
 
+**课程设置：**  
+
+#### Stage One
+- builds your subject knowledge and skills while introducing you to our brand of studio working and integrating you within our community of practice. Through a series of projects you’ll go on to focus on specific product design skills such as computing, 2D and 3D sketching, and workshop skills in wood, metal, and plastics. You also build knowledge of design for manufacture, and intellectual skills in areas like semiotics. The year finishes with a tour of London design studios intended to give you an insight into the breadth of practice labelled product design.
+#### Stage Two
+- extends your skills and locates you in professional contexts through external briefs provided by industry. Here you get the opportunity to consider and plan your future as a practitioner and to take more responsibility for initiating and managing your own work. You will, for instance, be exploring the relationships between branding and product design, and how ideas from outside of the discipline can be used to explore and inform creative design responses.
+#### Stage Three
+- provides you with a sustained opportunity to pursue your own agenda through writing and design exploration. This is your chance to bring together creative, intellectual, entrepreneurial and practical capacities developed over the previous two years to forge a product design outcome limited only by the time allocated and your own ambition. The final year closes with a real-world scenario in which you partner an external client to deliver a specific project. Absolut, Body Shop, Habitat, Kodak, Proctor & Gamble and Samsung are among our recent collaborators. This project represents a really useful springboard to professional design practice.
 
 ---
 
