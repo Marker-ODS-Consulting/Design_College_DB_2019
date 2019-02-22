@@ -35,8 +35,16 @@
 
 
 ##### 软性要求解读：
-- 
+- 要求中除了对作品集格式文字上传方式的要求之外没有提到对内容的要求，不过通过对官网上Leader对专业的描述可以获取一些对作品集有帮助的信息。
 
+> - Students will develop a deep understanding of critical and experimental communication/media production, creation and design practices, and through applied innovation will address current and future contexts.
+
+- 里面提到了学生将建立对以下问题的深度理解：“批判性的和实验性的传播或媒体产出”，“通过创新解决当前和未来的问题”
+所以同学们在准备作品集时可以尝试加入批判性思维以及对于推测性问题的实验尝试。
+
+> - Centring on the interrelated domains of broadcasting, film and experience/brand, the Programme addresses knowledge and skills gaps in four key areas of practice: production, direction, content development/making/writing, and communication/digital media design.
+
+- 以上提到了该专业以广播、电影和经验/品牌的相关领域为中心，解决了四个关键领域的知识和技能差距：制作、指导、内容开发/制作/写作和通信/数字媒体设计。这对作品集的选题会有所帮助，可以尝试选择这些领域为课题去发挥。
 
 ---
 
