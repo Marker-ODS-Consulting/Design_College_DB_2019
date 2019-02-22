@@ -1,30 +1,24 @@
-## 宾夕法尼亚大学[综] | Master of Integrated Product Design
+## 皇家艺术学院 | Innovation Design Engineering
 
-QS2018 年世界排名：19  
-QS2018 年世界艺术专业排名：101-150
+QS世界设计艺术排名：1  
+
 ### 1. 官网相关信息：
 
-**院校**：University of Pennsylvania  
-**学位**：Master of Integrated Product Design  
+**院校**：Royal College of Art  
+**学位**：Innovation Design Engineering  
 **学制**：2 年  
-**费用**：25976 美元  
-**语言**：TOEFL最低总分 100 / IELTS 最低总分 7.5  
-**GRE**：要求    
-**申请时间**：截止到2月1日  
-**申请文件**：成绩证明+学位证明+2 封推荐信+GRE+个人简历+个人陈述+作品集  
+**费用**：28400英镑/第一年，30750英镑/第二年  
+**语言**：IELTS总分6.5，单科6.0  
+**申请时间**：10月16日-6月30日  
+**申请文件**：两封推荐信+成绩单+学位证明+英文成绩+作品集+作品陈述+个人陈述  
 **作品集要求原文：**   
 
-> - Applicants to the Integrated Product Design program must submit a visual portfolio of 15 to 25 images of their work highlighting artistic, aesthetic, and creative explorations. Portfolios must be submitted digitally as a PDF document. Applicants may also provide a web address for an online portfolio on the first page of the PDF.
+> All candidates are required to submit a portfolio of work to be assessed by the Programme team. Candidates submit online portfolios via the application system. The portfolio should show:
+> - the excellence of your current expertise, study area or professional activity
+> - evidence of your interest or ability in the fields of innovation, design and engineering
+> - samples of your creative abilities or relevant personal interests.  
 
-> - A PDF document of no more than twenty 8.5 x11" pages and screen resolution (72 dpi) ONLY should be submitted. No fewer than four projects (two of which should be individual projects).
-
-> - All work should be identified as academic, professional, or personal. If professional or team projects are included in the portfolio, the specific role and responsibility of the applicant in the production of the project must be clearly identified. Inclusion of independent work is encouraged.
-
-> - Labels and writing should clearly explain the work. Number each image for reference in accompanying text within the PDF, noting the size of the object in the image, the date created, the medium used, and if the work was collaborative, the nature of the applicant's contribution.
-
-> - Applicants should provide a form of locating reference for all articles, patents, etc if referred to in your application, such as bibliographical data, patent number etc.
-
-> - The applicant's full contact information should appear on the first page, and their name on each subsequent page of the submission.
+> The portfolio could include: projects and exercises from previous degree courses where relevant, examples of professional work; personal sketchbooks or working sketches; self-generated projects; evidence of an ability to make in 3D; as well as examples of creative work in any other areas.
 
 
 ---
@@ -33,16 +27,10 @@ QS2018 年世界艺术专业排名：101-150
 ### 2. 马克君翻译与解读：
 
 ##### 硬性要求提取：
-- 15-25 张图片（但是后续又要求20页，以20为准）
-- 一个PDF 文档提交
-- 接受 URL/Link 提交，推荐 Dropbox
-- 20页以内的PDF，A4尺寸@72dpi
-- 不能少于4个项目，其中2个必须是个人独立完成项目
-- 标注清楚属性是 academic/professional/personal 即：学校作业，工作项目，个人项目
-- 讲清楚自己的项目属性，与自己在项目中的参与内容
+- RCA 对于作品集有着明确的硬性要求，每个项目1个封面页+6个内容页
 
 ##### 软性要求解读：
-- 看似内容要求很多，实际上并不是特别夸张，篇幅要求几乎是唯一的要求，严格卡在20页A4即可。综合类院校在思路上应该更严谨和完整一些。
+- 作为世界第一的艺术类院校，RCA的这个方向拉上了帝国理工大学一起培养，所以在申请时候一定记得体现出一定的工业设计结合工程的内容。
 
 
 ---
@@ -50,5 +38,8 @@ QS2018 年世界艺术专业排名：101-150
 
 ### 3. 有用链接：
 
-**专业介绍与作品集要求**：[院校链接](https://gradadm.seas.upenn.edu/masters/integrated-product-design/)  
-**课程安排**：[IPD专业网站](https://ipd.me.upenn.edu/)
+**专业介绍**：[院校链接](https://www.rca.ac.uk/schools/school-of-design/innovation-design-engineering/)  
+**学校官方专业手册** [点击下载](https://www.rca.ac.uk/documents/953/RCA_IDE_Programme_Specification_2018-1.pdf)
+
+**解读文章**：[帝国理工和皇艺设计双学位，你要不要？](http://www.makebi.net/28388.html)  
+**相关视频**：[马克笔哔哩哔哩视频链接](https://www.bilibili.com/video/av27203377)

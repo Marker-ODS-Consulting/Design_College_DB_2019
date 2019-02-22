@@ -1,4 +1,4 @@
-## ！！！未完成！！！皇家艺术学院 | MA Design Products
+## 皇家艺术学院 | MA Design Products
 
 QS世界设计艺术排名：1  
 
@@ -49,5 +49,5 @@ QS世界设计艺术排名：1
 **专业介绍**：[院校链接](https://www.rca.ac.uk/schools/school-of-design/design-products/)  
 **学校官方专业手册** [点击下载](https://www.rca.ac.uk/documents/906/Design_Products_Specification_2018-19.pdf)
 
-**解读文章**：[马克笔官网文章](http://www.makebi.net/28018.html)  
+**解读文章**：[如何申请皇家艺术学院产品设计？](http://www.makebi.net/28018.html)  
 **相关视频**：[马克笔哔哩哔哩视频链接](https://www.bilibili.com/video/av22598242)
