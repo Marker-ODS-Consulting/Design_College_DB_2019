@@ -15,7 +15,42 @@
 
 > 无具体要求。
 
+**课程设置：**  
 
+#### Year 1
+Compulsory Modules:  
+Design Practice 1 (40 credits)  
+Design Practice 2 (10 credits)  
+Prototyping for Design (20 credits)  
+User Centered Design (10 credits)  
+Technology in Industrial Design (20 credits)  
+Industrial Design Studies 1 (10 credits)   
+Design Research Methods 1 (10 credits)   
+#### Year 2  
+Compulsory Modules:  
+Industrial Design Studies 2 (30 credits)  
+Year 2 Design Practice (25 credits)  
+Design Communication (15 credits)  
+BA Design & Manufacturing Technologies (30 credits)  
+Optional Modules:  
+Universal Design (20 credits)  
+Sustainable Design (20 credits)  
+Computer-aided Ergonomics (20 credits)  
+User Experience Design (20 credits)  
+Physical and Virtual Prototyping in Design (20 credits)  
+#### Final year  
+Compulsory modules:  
+Industrial Design Studies 3 (20 credits)  
+Design Research (20 credits)  
+Final Year Design Practice (60 credits)  
+Live Projects (10 credits)  
+Optional Modules:  
+Universal Design (10 credits)  
+Computer-aided Ergonomics (10 credits)  
+User Experience Design (10 credits)  
+Computer Aided Modelling and Manufacture (10 credits)  
+The Global Studio (10 credits)  
+Entrepreneurship and Innovation (10 credits)  
 ---
 
 
