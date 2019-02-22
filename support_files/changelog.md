@@ -1,5 +1,9 @@
 # Change Log 迭代记录
 
+### Alpha 0.6.0 20190222
+* 英国部分ID IAD IXD 更新完毕
+
+
 ### Alpha 0.5.0 20190201
 * Bug Fixed
 * 今日放假，新年快乐！
