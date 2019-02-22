@@ -13,7 +13,7 @@
 **作品集要求原文：**   
 
 >
-Digital Portfolios
+Digital Portfolios  
 >
 - If you are unable to present your creative work portfolio in person, we offer submission of a digital portfolio and an interview via Skype as an alternative; however we strongly encourage all those invited to attend interview. Duncan of Jordanstone College of Art & Design have a digital portfolio submission format, which we will forward to you when necessary.
 - Please select no less than 15 images based on the information provided below.
