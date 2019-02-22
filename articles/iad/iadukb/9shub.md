@@ -1,4 +1,4 @@
-##  谢菲尔德哈勒姆大学[综] | Bachelor of Interior Design
+## 谢菲尔德哈勒姆大学[综] | Bachelor of Interior Design
 
 
 ### 1. 官网相关信息：
