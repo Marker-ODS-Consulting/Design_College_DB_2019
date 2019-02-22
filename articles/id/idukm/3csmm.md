@@ -4,7 +4,7 @@ QS世界设计艺术排名：6
 
 ### 1. 官网相关信息：
 
-**院校**：CENTRAL SAINT MARTINS  
+**院校**：Central Saint Martins, University of the Arts London  
 **学位**：MA Industrial Design  
 **学制**：2 年  
 **费用**：13890英镑/年  
