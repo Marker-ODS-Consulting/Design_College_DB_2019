@@ -1,7 +1,5 @@
 ## 斯威本理工大学[综] | Master of Interior Design
 
-QS世界排名：279
-
 ### 1. 官网相关信息：
 
 **院校**：Swinburne University of Technology     
