@@ -13,16 +13,16 @@ QS世界设计艺术排名：1
 **申请文件**：两封推荐信+成绩单+英文成绩+作品集+作品陈述+个人陈述  
 **作品集要求原文：**   
 
->
-Candidates for all MA programmes are assessed on their existing qualities as demonstrated in their work and in their interview, as well as on their potential to benefit from the programme and to achieve MA standards overall. The assessment will consider: creativity, imagination and innovation evident in the work; ability to articulate the intentions of the work; intellectual engagement in relevant areas; appropriate technical skills; overall interview performance, including oral use of English.  
->
-- You should submit a digital portfolio via our online applications area of between four to ten completed projects. Each project should include a title image and up to 6 supporting gallery images. You should provide a description of maximum of 100 words for each title image and a caption of up to 50 words for each supporting gallery image.
->
-- We recommend images between 1024 x 768 pixels or greater in size. All image files must be saved as JPG or PNG format with a maximum file size of 2MB. Video files can be submitted in place of images. MOV, MP4 or M4V formats are accepted with a maximum file size of 80MB. Other video formats can be referenced through a link to a video hosting site such as Vimeo.
->
-- When submitting collaborative work, specify this and clearly indicate your role and responsibility.
->
-- No actual objects, sketchbooks, physical portfolios or other media should be submitted at the point of application. Submission of any material not listed above will not be accepted. If you have any questions on the portfolio, please contact us at interior-design@rca.ac.uk
+
+> Candidates for all MA programmes are assessed on their existing qualities as demonstrated in their work and in their interview, as well as on their potential to benefit from the programme and to achieve MA standards overall. The assessment will consider: creativity, imagination and innovation evident in the work; ability to articulate the intentions of the work; intellectual engagement in relevant areas; appropriate technical skills; overall interview performance, including oral use of English.  
+
+> - You should submit a digital portfolio via our online applications area of between four to ten completed projects. Each project should include a title image and up to 6 supporting gallery images. You should provide a description of maximum of 100 words for each title image and a caption of up to 50 words for each supporting gallery image.
+
+> - We recommend images between 1024 x 768 pixels or greater in size. All image files must be saved as JPG or PNG format with a maximum file size of 2MB. Video files can be submitted in place of images. MOV, MP4 or M4V formats are accepted with a maximum file size of 80MB. Other video formats can be referenced through a link to a video hosting site such as Vimeo.
+
+> - When submitting collaborative work, specify this and clearly indicate your role and responsibility.
+
+> - No actual objects, sketchbooks, physical portfolios or other media should be submitted at the point of application. Submission of any material not listed above will not be accepted. If you have any questions on the portfolio, please contact us at interior-design@rca.ac.uk
 
 
 

@@ -12,8 +12,8 @@
 **申请文件**：两封推荐信+成绩单+英文成绩+作品集+个人陈述+个人简历  
 **作品集要求原文：**   
 
->
-- You will normally have an undergraduate UK honours degree or international equivalent or a degree-equivalent postgraduate diploma or a professional qualification. Alternatively, you may be admitted if you can demonstrate appropriate knowledge and skills at honours degree standard. In addition, you may also need to submit a Digital Portfolio.
+
+> - You will normally have an undergraduate UK honours degree or international equivalent or a degree-equivalent postgraduate diploma or a professional qualification. Alternatively, you may be admitted if you can demonstrate appropriate knowledge and skills at honours degree standard. In addition, you may also need to submit a Digital Portfolio.
 
 
 

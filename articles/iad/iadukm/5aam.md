@@ -12,9 +12,9 @@
 **申请文件**：申请表+在读证明+成绩单+2封推荐信+作品集+动机信+个人简历  
 **作品集要求原文：**   
 
->
-- With the exception of History and Critical Thinking and PhD Research, all applicants must submit a hard copy, bound portfolio of design work, no larger than A4 format, showing a combination of both academic and professional work. The AA does not accept digital portfolios.
-- The portfolio should be clearly labelled with a complete Portfolio Cover Sheet (PDF) and be addressed and sent to: Graduate Admissions, No 36 Bedford Square, London, WC1B 3ES.
+
+> - With the exception of History and Critical Thinking and PhD Research, all applicants must submit a hard copy, bound portfolio of design work, no larger than A4 format, showing a combination of both academic and professional work. The AA does not accept digital portfolios.
+> - The portfolio should be clearly labelled with a complete Portfolio Cover Sheet (PDF) and be addressed and sent to: Graduate Admissions, No 36 Bedford Square, London, WC1B 3ES.
 
 
 

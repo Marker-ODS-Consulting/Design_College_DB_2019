@@ -14,14 +14,14 @@ QS世界设计艺术排名：16
 **申请文件**：两封推荐信+成绩单+英文成绩+作品集+个人陈述+个人简历  
 **作品集要求原文：**   
 
->
-- All portfolios must be submitted electronically. Applicants to programmers that require a Portfolio will be provided with log-in details for the Portfolio website after the application form is received. Guidelines on portfolio format and how to upload these can be found by clicking here. Please read the instructions prior to portfolio submission.
->
+
+> - All portfolios must be submitted electronically. Applicants to programmers that require a Portfolio will be provided with log-in details for the Portfolio website after the application form is received. Guidelines on portfolio format and how to upload these can be found by clicking here. Please read the instructions prior to portfolio submission.
+
 Image Upload (25 individual images)
->
-- If you have chosen this option you must upload exactly 25 images, no more or less. Maximum size of 200kb per image. Images must be one of the following file types: .gif, .jpg, .png. Before you submit your 25 images, check each image to ensure you are happy with the size and level of detail you can see as this will be what GSA Admissions staff viewing your application will also see.
->
-- You will not be able to change your images once you have submitted your 25 images.
+
+> - If you have chosen this option you must upload exactly 25 images, no more or less. Maximum size of 200kb per image. Images must be one of the following file types: .gif, .jpg, .png. Before you submit your 25 images, check each image to ensure you are happy with the size and level of detail you can see as this will be what GSA Admissions staff viewing your application will also see.
+
+> - You will not be able to change your images once you have submitted your 25 images.
 
 
 

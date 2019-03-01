@@ -12,14 +12,14 @@
 **申请文件**：两封推荐信+成绩单+英文成绩+作品集+个人陈述+个人简历  
 **作品集要求原文：**   
 
->
-Your portfolio will form the basis of your application’s evaluation and should include the following:
->
-- Final project from your undergraduate course. This work must include your design development and critical analysis – to demonstrate how you have evolved your initial ideas into interior design concepts and technical details.
-- Other projects from final year or second year undergraduate programme.
-- An outline of your written dissertation or final year essay.
-- Selected excerpts from sketchbooks and workbooks.
-- A range of work form any of your work placements/practical training or architectural employment (this may include technical work as well as design and presentation work).
+
+> Your portfolio will form the basis of your application’s evaluation and should include the following:
+
+> - Final project from your undergraduate course. This work must include your design development and critical analysis – to demonstrate how you have evolved your initial ideas into interior design concepts and technical details.
+> - Other projects from final year or second year undergraduate programme.
+> - An outline of your written dissertation or final year essay.
+> - Selected excerpts from sketchbooks and workbooks.
+> - A range of work form any of your work placements/practical training or architectural employment (this may include technical work as well as design and presentation work).
 
 
 

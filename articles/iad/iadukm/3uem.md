@@ -14,17 +14,17 @@ QS世界设计艺术排名：101-150
 **申请文件**：推荐信+成绩单+英文成绩+作品集+个人陈述+Experience Statement+2min video  
 **作品集要求原文：**   
 
->
-- Interiors, architectural, landscape or product projects, as well as other artworks
-- A range of media and arenas of enquiry
-- Unfinished development work as well as finished projects   
->
-Selection will be made on four key criteria:
->
-- Research and conceptual ambition: what are the big ideas driving your work?
-- Development: how have you developed those ideas in your project work?
-- Resolution: how have projects been resolved and communicated?
-- Awareness: what do you consider interior design to be, and where does your work sit within the discipline?
+
+> - Interiors, architectural, landscape or product projects, as well as other artworks
+> - A range of media and arenas of enquiry
+> - Unfinished development work as well as finished projects   
+
+> Selection will be made on four key criteria:
+
+> - Research and conceptual ambition: what are the big ideas driving your work?
+> - Development: how have you developed those ideas in your project work?
+> - Resolution: how have projects been resolved and communicated?
+> - Awareness: what do you consider interior design to be, and where does your work sit within the discipline?
 
 
 

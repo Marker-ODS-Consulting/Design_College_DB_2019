@@ -12,8 +12,8 @@
 **申请文件**：2封推荐信+成绩单+英文成绩+作品集+个人陈述+个人简历  
 **作品集要求原文：**   
 
->
-Evidence of design work in a digital/portfolio of work is also required.
+
+> Evidence of design work in a digital/portfolio of work is also required.
 
 
 

@@ -13,8 +13,8 @@ QS世界设计艺术排名：6
 **申请文件**：成绩单+英文成绩+作品集+个人陈述  
 **作品集要求原文：**   
 
->
-- Subject specific skills including architectural drawing, model making, computer aided design (CAD) or equivalent
+
+> - Subject specific skills including architectural drawing, model making, computer aided design (CAD) or equivalent
 - A developed spatial awareness and an ability to creatively organise space and represent spatial ideas
 - An engagement with the critical debate surrounding contemporary interior and spatial design practice through writing or other creative practice
 - Evidence of approaches to research, design thinking and experimentation

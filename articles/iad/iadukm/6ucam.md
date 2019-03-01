@@ -12,8 +12,8 @@
 **申请文件**：两封推荐信+成绩单+英文成绩+作品集+个人陈述+个人简历  
 **作品集要求原文：**   
 
->
-- For this course, we'll require you to attend an Applicant Day and bring your portfolio for assessment. Further information on how to compile a portfolio and the specific requirements for examples of work to be included will be provided on the Applicant Portal after you've applied.
+
+> - For this course, we'll require you to attend an Applicant Day and bring your portfolio for assessment. Further information on how to compile a portfolio and the specific requirements for examples of work to be included will be provided on the Applicant Portal after you've applied.
 
 
 
