@@ -1,7 +1,6 @@
 ## 悉尼大学[综] | Master of Interaction Design and Electronic Arts
 
-QS2018 年世界排名：19  
-QS2018 年世界艺术专业排名：101-150
+
 ### 1. 官网相关信息：
 
 **院校**：University of Sydney  
