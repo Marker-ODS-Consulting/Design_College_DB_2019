@@ -7,7 +7,7 @@
 **院校**：University of Technology Sydney  
 **学位**：Bachelor of Design in Product Design  
 **学制**：3 年  
-**费用**：34560澳元  
+**费用**：34560澳元/年  
 **语言**：IELTS总分6.5，写作6.0 / TOEFL总分79-93，写作21    
 **申请时间**：无截止时间    
 **申请文件**：个人陈述+推荐信+成绩证明+学位就读证明+作品集+语言证明    

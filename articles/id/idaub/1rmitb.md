@@ -7,7 +7,7 @@
 **院校**：Royal Melbourne Institute of Technology  
 **学位**：Bachelor of Industrial Design (Honours)  
 **学制**：4 年  
-**费用**：33600澳元  
+**费用**：33600澳元/年  
 **语言**：IELTS总分6.0，单科5.5 / TOEFL总分92，单科不低于20    
 **申请时间**：无截止时间    
 **申请文件**：个人陈述+推荐信+成绩证明+学位就读证明+作品集+语言证明    
