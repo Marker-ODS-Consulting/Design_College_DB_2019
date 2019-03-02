@@ -2,7 +2,7 @@
 
 ### 1. 官网相关信息：
 
-**院校**：Emily Carr University of Art + Design  
+**院校**：Emily Carr University of Art and Design  
 **学位**：Master of Design  
 **学制**：2 年  
 **费用**：22405美元/年  
