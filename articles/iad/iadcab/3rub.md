@@ -1,9 +1,9 @@
-## 范莎学院[艺] | Bachelor of Interior Design
+## 怀雅逊大学[艺] | Bachelor of Interior Design
 
 ### 1. 官网相关信息：
 
-**院校**：Fanshawe College     
-**学位**：Honours Bachelor of Interior Design   
+**院校**：Ryerson University     
+**学位**：Interior Design (BID)   
 **学制**：4年  
 **费用**：8515加元/学期  
 **语言**：IELTS总分6.5，单科6.0；TOEFL总分90，写23，听读说22  

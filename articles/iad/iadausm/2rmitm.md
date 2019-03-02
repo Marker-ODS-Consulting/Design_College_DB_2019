@@ -1,7 +1,5 @@
 ## 墨尔本皇家理工大学[综] | Master of Interior Design
 
-QS世界排名：45
-
 ### 1. 官网相关信息：
 
 **院校**：RMIT University     
