@@ -46,7 +46,7 @@
 
 >- Photocopies of transcripts or credentials.
 >- Sample of your writing in the form of an academic paper.
->- Awareness of Interior Design as a "profession". Please ensure you interview a registered interior designer and become familiar with at least one of >- >- their projects. Please submit a written paper outlining this interview and experience (500 words max.)
+>- Awareness of Interior Design as a "profession". Please ensure you interview a registered interior designer and become familiar with at least one of  their projects. Please submit a written paper outlining this interview and experience (500 words max.)
 >- Your resume and completed questionnaire (this is provided to you by Admissions once you meet the criteria).
 >- Life Skills
 
@@ -70,11 +70,17 @@ Tell us what you think we should know about you and include a description of you
 ### 2. 马克君翻译与解读：
 
 ##### 硬性要求提取：
-- 无具体要求
+无硬性要求
 
 
 ##### 软性要求解读：
-无具体要求
+原文文字较多，总结一下，作品集中要重点要表现出以下几点：
+
+- 发现问题和解决问题的能力
+- 绘画和三维作品，比如：速写，油画，摄影，手工，模型，陶艺，家具，珠宝等等
+- 体现的软件知识和使用能力
+- 创作力的表现
+- 良好的沟通能力，清晰的传达表现自己想法 
 
 
 ---
