@@ -1,5 +1,8 @@
 # Change Log 迭代记录
 
+### Alpha 0.7.0 20190308
+* 加拿大部分ID IAD IXD 更新完毕(almost)
+
 
 ### Alpha 0.6.5 20190301
 * 澳洲部分ID IAD IXD 更新完毕(almost)
