@@ -13,7 +13,13 @@
 **作品集要求原文：**   
 
 
->- A portfolio containing visual and written documentation of previous work within the intended specialisation and which documents basic abilities and interests of relevance to the theme of the proposed Master’s project.
+> - The portfolio should consist of at least 5 and no more than 10 different examples of personal work/projects presented. It is an advantage that these works collectively represent your abilities and skills.
+
+> - Your portfolio must appear as one document with multiple pages.
+
+> - Your portfolio may contain works in any media you choose, i.e. video, web page or app. Should you wish to present a video, web page or app as part of your portfolio, these must be represented as screenshots in your portfolio along with text and functioning link to the specific webpages where they can be seen.
+
+> - Lastname_Firstname_portfolio(max. 15 MB)
 
 
 
@@ -26,7 +32,9 @@
 ### 2. 马克君翻译与解读：
 
 ##### 硬性要求提取：
-无具体要求
+- 5-10个项目
+- 文件不超过15MB
+- 命名方式：Lastname_Firstname_portfolio
 
 
 ##### 软性要求解读：
@@ -39,4 +47,4 @@
 ### 3. 有用链接：
 
 **专业介绍**：[院校链接](http://www.khio.no/en/studies/design#masters-in-design)  
-**课程结构**：[院校链接](https://kadk.dk/en/programme/spatial-design-perception-and-detail/about-programme) 
+**课程结构**：[院校链接](http://www.khio.no/en/studies/design#masters-in-design) 
