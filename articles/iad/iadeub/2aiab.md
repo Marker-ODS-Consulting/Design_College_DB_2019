@@ -85,5 +85,5 @@ The examination day consists of the following components:
 
 ### 3. 有用链接：
 
-**专业介绍**：[院校链接](https://www.artez.nl/en/course/interior-design)  
-**课程结构**：[院校链接](https://www.kabk.nl/en/programmes/bachelor/interior-architecture-and-furniture-design/courses) 
+**专业介绍**：[院校链接](https://www.artez.nl/en/course/interior-architecture)  
+**课程结构**：[院校链接](https://www.artez.nl/en/course/interior-architecture/course) 
