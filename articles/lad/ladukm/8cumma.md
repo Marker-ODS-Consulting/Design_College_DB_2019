@@ -39,5 +39,5 @@
 
 ### 3. 有用链接：
 
-**专业介绍**：[院校链接](https://www.sheffield.ac.uk/postgraduate/taught/courses/architecture/landscape-studies-ma-diploma)  
-**课程结构**：[院校链接](https://www.sheffield.ac.uk/postgraduate/taught/courses/architecture/landscape-studies-ma-diploma)
+**专业介绍**：[院校链接](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/urban-design-ma)  
+**课程结构**：[院校链接](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/urban-design-ma)
