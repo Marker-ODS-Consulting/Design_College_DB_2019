@@ -228,12 +228,12 @@
         * [5.1.12 AA建筑学院](articles/lad/ladukm/12aam.md)
     * [5.2 景观设计英国本科](articles/lad/ladukb/ladukb.md)
         * [5.2.1 谢菲尔德大学](articles/lad/ladukb/1usb.md)
-        * [5.2.2 范莎学院](articles/lad/ladukb/2uclb.md)
-        * [5.2.3 范莎学院](articles/lad/ladukb/3ueb.md)
-        * [5.2.4 范莎学院](articles/lad/ladukb/4cub.md)
-        * [5.2.5 范莎学院](articles/lad/ladukb/5unb.md)
-        * [5.2.6 范莎学院](articles/lad/ladukb/6ulb.md)
-        * [5.2.7 范莎学院](articles/lad/ladukb/7nub.md)
+        * [5.2.2 伦敦大学学院](articles/lad/ladukb/2uclb.md)
+        * [5.2.3 爱丁堡大学](articles/lad/ladukb/3ueb.md)
+        * [5.2.4 卡迪夫大学](articles/lad/ladukb/4cub.md)
+        * [5.2.5 诺丁汉大学](articles/lad/ladukb/5unb.md)
+        * [5.2.6 利物浦大学](articles/lad/ladukb/6ulb.md)
+        * [5.2.7 纽卡斯尔大学](articles/lad/ladukb/7nub.md)
 * [6. 建筑设计](page_holder.md)
 
 -----
