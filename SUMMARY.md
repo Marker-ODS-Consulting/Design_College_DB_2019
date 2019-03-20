@@ -212,7 +212,7 @@
     * [4.10 室内设计欧洲本科](articles/iad/iadcab/iadacab.md)
         * [4.8.1 安大略艺术设计学院](articles/iad/iadcab/1ocadb.md)
         * [4.8.2 范莎学院](articles/iad/iadcab/2fcb.md)
-* [5. 景观设计](articles/lad/ladiad.md)
+* [5. 景观设计](articles/lad/lad.md)
     * [5.1 景观设计英国硕士](articles/lad/ladukm/ladukm.md)
         * [5.1.1 谢菲尔德大学](articles/lad/ladukm/1usmala.md)
         * [5.1.2 谢菲尔德大学](articles/lad/ladukm/2usmls.md)
