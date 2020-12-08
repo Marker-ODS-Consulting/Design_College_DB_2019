@@ -19,7 +19,7 @@ QS2018年世界排名：132
 
 > -	Individuals who have completed a four-year Bachelor of Arts or Bachelor of Science degree, or its equivalent, with no prior degree in landscape architecture, architecture or environmental design, are eligible for admission to the program. Preference for admission is given to those who have completed a balanced undergraduate education that includes study in the arts, sciences and humanities. Applicants must document successful completion of a college-level course in the natural sciences. Preparation in the visual arts is strongly encouraged. A minimum of a one-semester, college-level course in the visual arts, such as drawing, sculpture, graphics and/or basic design, is required before beginning the first semester of study. Courses in the humanities, ecology, history of art, landscape architecture and architecture are strongly encouraged, although not required. 
 
-> -	The portfolio submission is an opportunity for you to tell us about your creative experiences.  Candidates may demonstrate design aptitude by submitting examples of freehand drawing, painting, sculpture, photography, graphic design, furniture, product design, etc. The portfolio will help us understand your visual interests and prior experience to assist us to evaluate your aptitude for spatial thinking and design.
+> -	The portfolio submission is an opportunity for you to tell us about your creative experiences. Candidates may demonstrate design aptitude by submitting examples of freehand drawing, painting, sculpture, photography, graphic design, furniture, product design, etc. The portfolio will help us understand your visual interests and prior experience to assist us to evaluate your aptitude for spatial thinking and design.
 
 > Admission with Advanced Placement 
 
@@ -43,11 +43,13 @@ QS2018年世界排名：132
 ### 2. 马克君翻译与解读：
 
 ##### 硬性要求提取：
-无具体要求
+- 10-25页（图片格式）
+- 图片大小每张不超过5MB，视频每个不超过250MB
+- 不接受纸质版以及其他形式
 
 
 ##### 软性要求解读：
-无具体要求
+作品集对本专业和转专业的申请者都做出了相应的作品集要去，
 
 
 ---
